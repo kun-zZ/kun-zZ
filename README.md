@@ -1,9 +1,8 @@
-### Hi there 👋
-<h1 align="center">Kunal Kumar Jain</h1>
-<h3 align="center">CSE Fresher seeking to obtain a responsible, challenging and awarding position where I can showcase my abilities while learning new skills and utilize them towards the development of the organization as well as for personal growth.</h3>
+### Hi there, I'm Kunal 👋
+<h3 align="center">Computer Science graduate with experience in software development, business operations, and IT support.
+</h3>
 <div align="center">
   B.Tech CSE Graduate from Assam Don Bosco University<br>
-   I’m currently working on GetYourAid (A Telemedicine Android Application) and building my skillset learning new things.<br>
    Reach me:
 </div>
 
@@ -11,7 +10,7 @@
   <a href="mailto:kunaljain.0801@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=your_color" />
   </a>
-  <a href="https://www.linkedin.com/in/kunal47/" target="_blank">
+  <a href="https://www.linkedin.com/in/kunal-k01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=your_color" target="_blank" />
   </a>
 </div>
