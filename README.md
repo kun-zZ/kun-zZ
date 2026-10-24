@@ -8,8 +8,9 @@
 
 <div align="center"> 
   <a href="mailto:kunaljain.0801@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail" alt="Gmail" />
-  </a>
+  <img src="https://shields.io" alt="Gmail" />
+</a>
+
   <a href="https://www.linkedin.com/in/kunal-k01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=your_color" target="_blank" />
   </a>
