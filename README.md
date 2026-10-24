@@ -7,8 +7,9 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:kunaljain.0801@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  target="_blank" />
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail")](https://google.com)
+  
 </a>
 
   <a href="https://www.linkedin.com/in/kunal-k01/" target="_blank">
