@@ -10,11 +10,14 @@
   <a href="mailto:kunaljain.0801@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" valign="middle"/>
   </a>
-  <code>kunaljain.0801@gmail.com</code>
+ 
   
   <a href="https://www.linkedin.com/in/kunal-k01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=your_color" target="_blank" />
   </a>
+</div>
+<div align="center"> 
+  <code>kunaljain.0801@gmail.com</code>
 </div>
 
 <hr/>
