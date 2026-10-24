@@ -8,7 +8,7 @@
 
 <div align="center"> 
   
-  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail")](https://google.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail")](https://google.com)
   
 </a>
 
